@@ -137,7 +137,7 @@ C++03/11/14, STL, Boost, wxWidgets, GoogleTest, GoogleMock, Readline, Qt
 #### Erlang:
 Erlang/OTP
 #### Python:
-stdlib, Tornado, Bottle, Twisted, Django, NumPy
+stdlib, Tornado, Bottle, Twisted, Django, NumPy, Celery
 #### JScript:
 JQuery
 #### Assembler:
@@ -169,6 +169,7 @@ Windows, Linux
 -	[M102: MongoDB for DBAs](certificates/MongoDB/M102.pdf)
 #### [Stepik](https://welcome.stepik.org/ru):
 -	[Алгоритмы: теория и практика. Методы](certificates/Stepik/AlgorithmsMethods.pdf)
+-	[Молекулярная биология клетки](certificates/Stepik/MolecularBiologyOfCell.pdf)
 
 ### Публикации
 #### Linux Format русская версия (www.linuxformat.ru):
