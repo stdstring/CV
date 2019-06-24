@@ -160,8 +160,8 @@ Windows, Linux
 #### Oracle:
 -	[OCP Java SE 6 Programmer](certificates/Oracle/Certificate_Java6SE.pdf)
 #### LPI:
--	[LPIC-1: Linux Server Professional Certification](certificates/LPI/LPIC-1.pdf) (LPIC-1 exam 101, exam-102)
--	LPIC-2: Linux Network Professional Certification (LPIC-1 exam 201)
+-	[LPIC-1: System Administrator](certificates/LPI/LPIC-1.pdf) (LPIC-1 exam 101, exam 102)
+-	[LPIC-2: Linux Engineer](certificates/LPI/LPIC-2.pdf) (LPIC-2 exam 201, exam 202)
 #### MongoDB University:
 -	[M101J: MongoDB for Java Developers](certificates/MongoDB/M101J.pdf)
 -	[M101N: MongoDB for .NET Developers](certificates/MongoDB/M101N.pdf)
