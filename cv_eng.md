@@ -169,6 +169,7 @@ Windows, Linux
 -	[M102: MongoDB for DBAs](certificates/MongoDB/M102.pdf)
 #### [Stepik](https://welcome.stepik.org/ru):
 -	[Algorithms: theory and practice. Methods](certificates/Stepik/AlgorithmsMethods.pdf)
+-	[Functional programming in Haskell](certificates/Stepik/FunctionalHaskellProgramming.pdf)
 -	[Molecular biology of cell](certificates/Stepik/MolecularBiologyOfCell.pdf)
 
 ### Publications
