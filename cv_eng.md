@@ -170,6 +170,7 @@ Windows, Linux
 #### [Stepik](https://welcome.stepik.org/ru):
 -	[Algorithms: theory and practice. Methods](certificates/Stepik/AlgorithmsMethods.pdf)
 -	[Functional programming in Haskell](certificates/Stepik/FunctionalHaskellProgramming.pdf)
+-	[Introduction to computer architecture. Elements of operating systems.](certificates/Stepik/IntroCompArchAndOS.pdf)
 -	[Molecular biology of cell](certificates/Stepik/MolecularBiologyOfCell.pdf)
 
 ### Publications
