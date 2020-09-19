@@ -172,6 +172,15 @@ Windows, Linux
 -	[Введение в архитектуру ЭВМ. Элементы операционных систем.](certificates/Stepik/IntroCompArchAndOS.pdf)
 -	[Функциональное программирование на языке Haskell](certificates/Stepik/FunctionalHaskellProgramming.pdf)
 -	[Молекулярная биология клетки](certificates/Stepik/MolecularBiologyOfCell.pdf)
+-	[Спортивное программирование](certificates/Stepik/CompetitiveProgramming.pdf)
+-	[Математика для олимпиад по программированию](certificates/Stepik/MathForCompetitiveProgramming.pdf)
+#### [Hackerrank](https://www.hackerrank.com/):
+-	[C++ (Basic)](certificates/Hackerrank/Cpp.Basic.png)
+-	[Java (Basic)](certificates/Hackerrank/Java.Basic.png)
+-	[Java (Intermediate)](certificates/Hackerrank/Java.Intermediate.png)
+-	[Problem Solving (Basic)](certificates/Hackerrank/ProblemSolving.Basic.png)
+-	[Python (Intermediate)](certificates/Hackerrank/Python.Intermediate.png)
+-	[SQL (Basic)](certificates/Hackerrank/Sql.Basic.png)
 
 ### Публикации
 #### Linux Format русская версия (www.linuxformat.ru):
