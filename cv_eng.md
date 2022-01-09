@@ -160,7 +160,7 @@ Java2 SE6-8, JDBC, Hibernate, Servlets, JSP, JUnit
 #### C/C++:
 C++03/11/14, STL, Boost, wxWidgets, GoogleTest, GoogleMock, Readline, Qt
 #### Erlang:
-Erlang/OTP
+Erlang/OTP, Elixir
 #### Python:
 stdlib, Tornado, Bottle, Twisted, Django, NumPy, Celery
 #### JScript:
@@ -202,11 +202,17 @@ Windows, Linux
 -	[Golang programming](https://github.com/stdstring/CV/blob/master/certificates/Stepik/GolangProgramming.pdf)
 #### [Hackerrank](https://www.hackerrank.com/):
 -	[C++ (Basic)](https://github.com/stdstring/CV/blob/master/certificates/Hackerrank/Cpp.Basic.png)
+-	[Go (Basic)](https://github.com/stdstring/CV/blob/master/certificates/Hackerrank/Go.Basic.png)
+-	[Go (Intermediate)](https://github.com/stdstring/CV/blob/master/certificates/Hackerrank/Go.Intermediate.png)
 -	[Java (Basic)](https://github.com/stdstring/CV/blob/master/certificates/Hackerrank/Java.Basic.png)
 -	[Java (Intermediate)](https://github.com/stdstring/CV/blob/master/certificates/Hackerrank/Java.Intermediate.png)
+-	[JavaScript (Basic)](https://github.com/stdstring/CV/blob/master/certificates/Hackerrank/JavaScript.Basic.png)
+-	[JavaScript (Intermediate)](https://github.com/stdstring/CV/blob/master/certificates/Hackerrank/JavaScript.Intermediate.png)
 -	[Problem Solving (Basic)](https://github.com/stdstring/CV/blob/master/certificates/Hackerrank/ProblemSolving.Basic.png)
+-	[Python (Basic)](https://github.com/stdstring/CV/blob/master/certificates/Hackerrank/Python.Basic.png)
 -	[Python (Intermediate)](https://github.com/stdstring/CV/blob/master/certificates/Hackerrank/Python.Intermediate.png)
 -	[SQL (Basic)](https://github.com/stdstring/CV/blob/master/certificates/Hackerrank/Sql.Basic.png)
+-	[SQL (Intermediate)](https://github.com/stdstring/CV/blob/master/certificates/Hackerrank/Sql.Intermediate.png)
 
 ### Publications
 #### Linux Format Russian (http://www.linuxformat.ru/):
