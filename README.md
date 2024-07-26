@@ -1,4 +1,4 @@
 # My CV:
 
-### [RUS](cv.md)
+### [RUS](cv_rus.md)
 ### [ENG](cv_eng.md)
